@@ -28,3 +28,6 @@ Lisätään kaksi eri tekstiobjektia (text1 ja text2), jossa lukee "Terveisiä k
 törmäävät toisiinsa (rivit 34-54).
 
 Lisätään myös hieno sade efekti! (rivit 58-73)
+
+## Screenshot
+<img src="screencapture.png" width="600">
