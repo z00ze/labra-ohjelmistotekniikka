@@ -1,5 +1,5 @@
 # labra-ohjelmistotekniikka
-## Tehtävän anto
+## Tehtävänanto
 Ohjelmistotekniikan työssä tutustutaan web-kehityksen perusteisiin, pienellä kulmakertoimella. Työn
 jälkeen olet asentanut koneellesi web-palvelimen, opetellut Phaser-frameworkin käyttöä ja harjoitellut
 javascriptillä ohjelman tekemistä.
