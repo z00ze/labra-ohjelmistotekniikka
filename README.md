@@ -3,14 +3,14 @@
 Ohjelmistotekniikan työssä tutustutaan web-kehityksen perusteisiin, pienellä kulmakertoimella. Työn
 jälkeen olet asentanut koneellesi web-palvelimen, opetellut Phaser-frameworkin käyttöä ja harjoitellut
 javascriptillä ohjelman tekemistä.
-Phaser on html5 -sovelluskehys jonka fokus on pelinkehityksessä. Mutta, tässä harjoitustyössä tavoitteena
+Phaser on html5 -sovelluskehys jonka fokus on pelinkehityksessä, mutta tässä harjoitustyössä tavoitteena
 on pelistä poiketen tehdä 'intro'. Intro on yksinkertaisesti selitettynä pienimuotoinen teknisen osaamisen
-taidonnäyte. Perinteisesti näissä keskityttiin alunperin yhteen tai kahteen efektiin, ja terveisten sekä
-hävyttömyksien huuteluun tutuille. Tästä esimerkkinä Phaserin
-http://phaser.io/examples/v2/demoscene/atari-intro . Pian, ja edelleen, näistäkin n tehty useamman
-efektin kokoelmia - esim. https://www.youtube.com/watch?v=o6D_MNWfcV8 .
+taidonnäyte. Perinteisesti näissä keskityttiin alunperin yhteen tai kahteen efektiin ja terveisten sekä
+hävyttömyyksien huuteluun tutuille. Tästä esimerkkinä Phaserin
+http://phaser.io/examples/v2/demoscene/atari-intro . Pian ja edelleen, näistäkin tehty useamman
 Pyörää kannattaa harvemmin keksiä uudelleen, vaikkakin se on opettavaista. Mutta, meidän
-pyörävarastonamme toimivat Phaserin esimerkit: http://phaser.io/examples jossa kannattaa huomata osiot
+efektin kokoelmia - esim. https://www.youtube.com/watch?v=o6D_MNWfcV8 .
+Pyörävarastonamme toimivat Phaserin esimerkit: http://phaser.io/examples jossa kannattaa huomata osiot
 demoscene ja audio (muista toki saa myös ottaa oppia).
 
 ## Toteutus
@@ -27,7 +27,7 @@ näin saadaan luotua taustakuvista 'daycycle' (rivit 20-28, sekä changeday-func
 Lisätään kaksi eri tekstiobjektia (text1 ja text2), jossa lukee "Terveisiä kurssilaisille" ja "Terveisin, Marko!" jotka liikkuvat ja
 törmäävät toisiinsa (rivit 34-54).
 
-Lisätään myös hieno sade efekti! (rivit 58-73)
+Lisätään myös hieno sade-efekti! (rivit 58-73)
 
 ## Screenshot
 <img src="screencapture.png" width="600">
